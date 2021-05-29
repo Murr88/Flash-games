@@ -1,3 +1,6 @@
+body {
+    background:mediumspringgreen;
+}
 
 .link { 
     color: #F00000; 
@@ -15,6 +18,41 @@
     color: #78F37F; 
 }
 
-p {
+p,h1,h2,h3,h4 {
     text-align: center;
+}
+
+iframe {
+    background:mediumaquamarine;
+}
+
+.iframeright {
+    width:15%;
+    height:100%;
+    position:absolute;
+    right:0px;    
+}
+
+.iframetop {
+    height:20%; 
+    width:100%;
+    border:0px;
+    position:absolute; 
+    top:0px;
+}
+
+.iframeleft {
+    width:15%;
+    height:100%;
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+
+.iframemiddle {
+    height:70%;
+    width:50%;
+    top:20%;
+    left:25%;
+
 }
