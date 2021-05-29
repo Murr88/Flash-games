@@ -1,0 +1,42 @@
+
+<iframe align="bottom" src="Bottom.html" 
+
+ style="border:0px;
+ position:absolute; 
+ bottom:0px; 
+ left:0px;
+ right:0px;
+ height="10%" 
+ width="100%" 
+ name="iframe_c">
+
+</iframe>
+
+<iframe align="top" src="Top.html" 
+ 
+ style="border:1px pitch black;
+ position:absolute; 
+ top:0px; 
+ left:0px;
+ height="10%" 
+ width="100%" 
+ name="iframe_d">
+
+</iframe>
+
+ <iframe align="bottom-right" src="Right.html" 
+
+ style="border:0px;
+ position:absolute; 
+ top:0px;
+ right:0px; 
+ width="20%" 
+ height="750px" 
+ name="iframe_b"
+ scrolling="no">
+
+</iframe>
+
+<iframe src="Middle.html" width="80.8%" height="550" name="iframe_e" style="border:2px pitch black;position:absolute;top:15%;left:19.6%" scrolling="no">
+
+</iframe>

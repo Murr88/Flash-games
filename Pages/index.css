@@ -1,0 +1,20 @@
+
+.link { 
+    color: #F00000; 
+}
+
+.link:visited { 
+    color: #FFFFFF; 
+}
+
+.link:hover { 
+    color: #00FF00; 
+}
+
+.link:active { 
+    color: #78F37F; 
+}
+
+p {
+    text-align: center;
+}
