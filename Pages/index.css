@@ -24,6 +24,7 @@ p,h1,h2,h3,h4 {
 
 iframe {
     background:mediumaquamarine;
+    display:block;
 }
 
 .iframeright {
@@ -54,5 +55,4 @@ iframe {
     width:50%;
     top:20%;
     left:25%;
-
 }
